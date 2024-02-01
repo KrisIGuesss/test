@@ -1,0 +1,8 @@
+git init
+touch "readme.txt"
+
+git commit -m "message"
+git status
+
+cd ..
+ls -a
